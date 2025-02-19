@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757137105797",
+    "project_id": "authdemo-10cfd",
+    "storage_bucket": "authdemo-10cfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757137105797:android:a518669ae81bcb9cd69aec",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdanitn9VrcWfcE_PInkC19Bp0ySjL3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
