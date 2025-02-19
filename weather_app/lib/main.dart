@@ -30,7 +30,7 @@ class _WeatherHomePageState extends State<WeatherHomePage> {
   String iconCode = "01d";
 
   final String apiKey =
-      "32dad33d232034168ffa2d044ef96b93"; // Replace with your OpenWeatherMap API key
+      "32dad33d232034168ffa2d044ef96b93"; // Dummy - Replace with your OpenWeatherMap API key
 
   Future<void> fetchWeather(String cityName) async {
     final url =
